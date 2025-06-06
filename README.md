@@ -35,16 +35,16 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-###Run the App
+### Run the App
 
 ```bash
 streamlit run app.py
 ```
 
-###Deployment
+### Deployment
 The app can be deployed easily on [Streamlit Cloud](https://carbonfootprintcalculator-weewqlhqvvyxxp8wr5phbd.streamlit.app/) or other Python web hosting platforms supporting Streamlit.
 
-###About
+### About
 Created by Vidhan Agarwal using Streamlit.
 
 License
