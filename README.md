@@ -47,6 +47,6 @@ The app can be deployed easily on [Streamlit Cloud](https://carbonfootprintcalcu
 ### About
 Created by Vidhan Agarwal using Streamlit.
 
-License
+### License
 MIT License © 2025 Vidhan Agarwal
 
